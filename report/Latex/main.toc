@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}مقدمه}{3}{section.1}%
+\contentsline {section}{\numberline {2}سؤال اول}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}صورت مسئله}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}پیاده‌سازی}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}درونیابی لاگرانژ}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}درونیابی اسپلاین مکعبی}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}مقایسه روش‌ها}{5}{subsection.2.5}%
+\contentsline {section}{\numberline {3}سؤال دوم}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}صورت مسئله}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}خواندن فایل اکسل}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}نمودار میله‌ای}{7}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}نمودار خطی}{8}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}نمودار جعبه‌ای}{9}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}میانگین زمان اجرای الگوریتم دوم}{9}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}جمع‌بندی}{10}{subsection.3.7}%
+\contentsline {section}{\numberline {4}سؤال سوم}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}صورت مسئله}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}رسم تابع}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}روش ذوزنقه‌ای}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}روش سیمپسون}{11}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}انتگرال‌گیری گاوسی}{12}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}مقایسه نتایج}{12}{subsection.4.6}%
+\contentsline {section}{\numberline {5}جمع‌بندی}{12}{section.5}%
+\contentsline {section}{\numberline {6}GitHub}{13}{section.6}%
